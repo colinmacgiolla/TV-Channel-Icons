@@ -1,0 +1,13 @@
+--2023-09-17 12:28:30--  https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Virgin_Media_Four_logo.svg/2560px-Virgin_Media_Four_logo.svg.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2a02:ec80:300:ed1a::2:b, 185.15.59.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2a02:ec80:300:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125733 (123K) [image/png]
+Saving to: ‘2560px-Virgin_Media_Four_logo.svg.png’
+
+     0K .......... .......... .......... .......... .......... 40%  310K 0s
+    50K .......... .......... .......... .......... .......... 81% 2.73M 0s
+   100K .......... .......... ..                              100% 6.04M=0.2s
+
+2023-09-17 12:28:30 (671 KB/s) - ‘2560px-Virgin_Media_Four_logo.svg.png’ saved [125733/125733]
+

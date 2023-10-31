@@ -1,0 +1,11 @@
+--2023-10-31 19:13:05--  https://upload.wikimedia.org/wikipedia/en/1/1d/Channel_4HD_Logo.svg
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2a02:ec80:300:ed1a::2:b, 185.15.59.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2a02:ec80:300:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘Channel_4HD_Logo.svg’
+
+     0K ....                                                    126M=0s
+
+2023-10-31 19:13:05 (126 MB/s) - ‘Channel_4HD_Logo.svg’ saved [5076]
+

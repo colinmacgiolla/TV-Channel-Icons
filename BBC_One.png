@@ -1,0 +1,12 @@
+--2023-10-31 19:09:56--  https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1920px-BBC_One_logo_2021.svg.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2a02:ec80:300:ed1a::2:b, 185.15.59.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2a02:ec80:300:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60230 (59K) [image/png]
+Saving to: ‘1920px-BBC_One_logo_2021.svg.png’
+
+     0K .......... .......... .......... .......... .......... 85% 1.71M 0s
+    50K ........                                              100% 86.0M=0.03s
+
+2023-10-31 19:09:56 (2.01 MB/s) - ‘1920px-BBC_One_logo_2021.svg.png’ saved [60230/60230]
+

@@ -1,0 +1,12 @@
+--2023-10-31 19:11:29--  https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/2560px-UTV_2016.svg.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2a02:ec80:300:ed1a::2:b, 185.15.59.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2a02:ec80:300:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73699 (72K) [image/png]
+Saving to: ‘2560px-UTV_2016.svg.png’
+
+     0K .......... .......... .......... .......... .......... 69% 1.33M 0s
+    50K .......... .......... .                               100% 5.78M=0.04s
+
+2023-10-31 19:11:29 (1.74 MB/s) - ‘2560px-UTV_2016.svg.png’ saved [73699/73699]
+
